@@ -1,0 +1,7 @@
+1,Lionel Messi,33,Barcelona,FWD,Argentina,37,29,8,0
+2,Cristiano Ronaldo,36,Juventus,FWD,Portugal,39,35,3,0
+3,Kevin De Bryune,29,Manchester City,MID,Belgium,33,8,12,0
+4,Robert Lewandowski,32,Bayern Munich,ST,Poland,36,45,7,0
+5,Harry Kane,27,Tottenham Hotspur,ST,England,41,30,22,0
+6,Kylian Mbappe,23,Paris Saint-Germain,ST,France,38,25,6,0
+7,Neymar,29,Paris Saint-Germain,FWD,Brazil,22,16,5,0

@@ -1,0 +1,4 @@
+1,1,0:92,NA:Adama,0:0,0:0
+2,2,76:42;91,Torres:Dallas;Dallas,0:0,0:46
+3,3,57;91:43,Salah;T.Alexander-Arnold:O.Watkins,0:0,0:0
+4,4,63:8;10;30;78,Benteke:Havertz;Pulisic;Zouma;Pulisic,0:0,0:0

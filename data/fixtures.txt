@@ -1,0 +1,4 @@
+1,Fulham,Wolves,0,1,EPL,10-04-2021
+2,Man City,Leeds,1,2,EPL,10-04-2021
+3,Liverpool,Aston Villa,2,1,EPL,10-04-2021
+4,Crystal Palace,Chelsea,1,4,EPL,10-04-2021
